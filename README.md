@@ -5,7 +5,7 @@ PROJETO << CLOUD-TECH >>
 INTRODUÇÃO
 
 
-Cloud-tech tem o objetivo de ajudar estudantes com seus possíveis acúmulos de trabalhos e gerenciando o conteúdo para estes mesmos trabalhos, sendo possível fazer envios agendados de trabalhos para não haver perda de notas por motivos banais como o não envio de tarefas.
+ Cloud-tech tem o objetivo de ajudar estudantes com seus possíveis acúmulos de trabalhos e gerenciando o conteúdo para estes mesmos trabalhos, sendo possível fazer envios agendados de trabalhos para não haver perda de notas por motivos banais como o não envio de tarefas.
 
 Tendo em vista também que o usuário poderá ser notificado para avisos que possam ser feitos por terceiros,  mas de forma séria e formal por intermédio da aplicação, ficando explícito quem fez o aviso como medida de inibir ações de má fé ou esclarecimentos posteriores.
 
