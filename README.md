@@ -44,7 +44,9 @@ CRONOGRAMA
  Cronograma
 
 08/09/16 Entrega do Wireframe
+
 00/00/00 descrever atividade
+
 00/00/00 descrever atividade
 \\\\\\\\\===============================================================================================================
 EQUIPE << Turma do bairro >>
