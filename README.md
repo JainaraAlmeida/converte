@@ -50,5 +50,7 @@ CRONOGRAMA
 EQUIPE << Turma do bairro >>
 
 1º kelvany alcantara (programador & gerente)
+
 2º douglas silva     (programador & designer)
+
 3º jainara almeida   (programador & designer)
